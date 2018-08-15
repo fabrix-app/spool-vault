@@ -1,0 +1,1 @@
+export { vaultConfig } from './vaultConfig'
