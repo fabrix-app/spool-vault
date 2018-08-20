@@ -10,6 +10,6 @@ describe('api.services.VaultService', () => {
   let VaultService
   before(() => {
     VaultService = global.app.services.VaultService
-    // return Vaultervice.init()
+    // return VaultService.init()
   })
 })
